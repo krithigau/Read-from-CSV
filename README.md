@@ -31,8 +31,7 @@ print("rows",len(df.axes[1]))
 ```
 
 ## CSV File contents:
-![Alt text](<Screenshot 2023-12-25 113337.png>)
-
+![Alt text](<Screenshot 2023-12-25 113828.png>)
 ## OUTPUT:
 
 ![Alt text](CSV_krithi.png)
